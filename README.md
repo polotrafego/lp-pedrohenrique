@@ -31,18 +31,14 @@ vercel.json     # deploy estático (cleanUrls)
 
 Rodar local: `npx --yes serve . -l 4332`
 
-## Pendências antes de publicar
+## Estado (2026-11-19): publicada e funcionando
 
-1. **Formulário do leadlovers.** Falta só o `fid`: no `index.html` há dois `PEDRO_FID` para
-   trocar pelo número do formulário do Pedro. Os ids dos campos já estão preenchidos
-   (89892 e-mail, 89894 nome, 89893 telefone, 89891 texto), porque são os campos
-   personalizados da conta da Polo e se repetem nas LPs da Olívia, do Murilo e do Faro.
-   O `mid=681453` é a conta da Polo e não muda. Passo a passo abaixo.
-2. **WhatsApp da `/obrigado`.** Está no número da Polo (`wa.me/5512982506250`) com mensagem
-   pronta. Se quiser link rastreado por LP, gerar um `wa.link` como nas outras LPs e trocar.
-3. **Fotos.** Trocadas em 2026-11-19 pelas da pasta do Drive enviada pela equipe (1024x1280,
-   recorte 4:5): `hero.jpg` (retrato sorrindo) e `obrigado.jpg` (palestrando com microfone).
-   Originais ficam em `assets/fotos-drive/` (fora do git e do deploy).
+- **Online:** https://lp-pedrohenrique.vercel.app (Vercel, projeto `lp-pedrohenrique`, deploy a cada push na `main`).
+- **Formulário leadlovers:** `mid=681453`, `fid=77848` ("Captura - Pedro Henrique Fonseca"), destino `/obrigado`. Ids dos campos: 89892 e-mail, 89894 nome, 89893 telefone, 89891 texto.
+- **Sequência:** `_Interessados Pedro Henrique`, nível `Recebemos o seu interesse - Pedro Henrique Fonseca`, e-mail #1 ativo, conta `mariana@polopalestrantes.com`. Banner e rodapé do e-mail em `img/email/`.
+- **WhatsApp** (`/obrigado` e botão do e-mail): `wa.me/5512982506250` (12 98250-6250, geral da Polo). Se quiser medir por LP, trocar por um `wa.link`.
+- **Fotos:** em alta (1024x1280), da pasta do Drive da equipe. Originais em `assets/fotos-drive/` (fora do git e do deploy).
+- **Sem rastreamento:** assim como a LP da Olívia, não há pixel nem analytics instalado. Se for rodar anúncios, incluir o pixel no `<head>` do `index.html` e do `obrigado.html`.
 
 ## Criar o formulário do Pedro no leadlovers (passo a passo)
 
