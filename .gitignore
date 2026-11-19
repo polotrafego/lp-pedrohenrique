@@ -17,3 +17,5 @@ node_modules/
 
 # Mapa local do graphify
 /graphify-out/
+/assets/fotos-drive/
+/assets/contato.jpg

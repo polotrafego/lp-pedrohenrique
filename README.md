@@ -40,8 +40,9 @@ Rodar local: `npx --yes serve . -l 4332`
    O `mid=681453` é a conta da Polo e não muda. Passo a passo abaixo.
 2. **WhatsApp da `/obrigado`.** Está no número da Polo (`wa.me/5512982506250`) com mensagem
    pronta. Se quiser link rastreado por LP, gerar um `wa.link` como nas outras LPs e trocar.
-3. **Fotos.** As duas vieram do site da Polo em baixa resolução (640x800 e 800x800). Se o
-   Pedro mandar fotos em alta, substituir `img/photos/hero.jpg` e `img/photos/obrigado.jpg`.
+3. **Fotos.** Trocadas em 2026-11-19 pelas da pasta do Drive enviada pela equipe (1024x1280,
+   recorte 4:5): `hero.jpg` (retrato sorrindo) e `obrigado.jpg` (palestrando com microfone).
+   Originais ficam em `assets/fotos-drive/` (fora do git e do deploy).
 
 ## Criar o formulário do Pedro no leadlovers (passo a passo)
 
