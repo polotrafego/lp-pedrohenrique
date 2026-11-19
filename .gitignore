@@ -1,0 +1,19 @@
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Dependências / build (não usados neste site estático, mas por segurança)
+node_modules/
+.vercel/
+
+# Materiais-fonte (fotos originais) - nao versionar
+/assets/fotos/
+.claude/
+
+# Mapa local do graphify
+/graphify-out/

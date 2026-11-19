@@ -1,0 +1,32 @@
+Fonte: polopalestrantes.com.br/palestrantes/pedro-henrique-fonseca (capturado em 18/11/2026)
+
+Quem é Pedro Henrique Fonseca
+
+Pedro Henrique Fonseca é advogado tributarista, sócio e Head of Tax Advocacy da PHF Tax.
+Especialista em reforma tributária, regulação e relações governamentais, traduz decisões do
+Estado em impactos práticos para os negócios. Com mais de 370 mil seguidores nas redes sociais,
+combina conteúdo atualizado, linguagem simples e humor para ajudar empresas a antecipar
+mudanças, reduzir riscos e tomar decisões estratégicas.
+
+É essencial se:
+- Sua empresa precisa se preparar para a reforma tributária e seus impactos.
+- Você busca antecipar mudanças regulatórias e proteger a competitividade do negócio.
+- Seu evento precisa traduzir cenários complexos em decisões práticas para empresas.
+
+Não é só mais um nome:
+- Traduz temas técnicos e decisões governamentais em impactos concretos para os negócios.
+- Combina conhecimento tributário, visão estratégica e compreensão do funcionamento do Estado.
+- Une informação atualizada, linguagem acessível e humor para tornar o conteúdo técnico
+  envolvente e m[...] (o texto está truncado no site da Polo).
+
+Temas: Estratégia, Negociação, Política.
+Descrição curta do site: "Especialista em Reforma Tributária".
+
+Apresentação (PDF no site da Polo):
+https://polopalestrantes.com/area-administrativa/config/palestrantes/apresentacoes/139811e7346dfe609fa15c72b54b4a8c05c18a19.pdf
+
+Marca pessoal (phftax.com.br):
+- Paleta: papel #F7F5F1, preto #0D0D0F, vermelho #E41A20, laranja #FA6F1B.
+- Tipografia: Archivo Black (títulos) + Hind (texto).
+
+Fotos originais em assets/fotos/ (baixadas do site da Polo, 640x800 e 800x800).
