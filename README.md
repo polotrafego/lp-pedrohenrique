@@ -33,8 +33,9 @@ Rodar local: `npx --yes serve . -l 4332`
 
 ## Estado (2026-11-19): publicada e funcionando
 
-- **Online:** https://lp-pedrohenrique.vercel.app (Vercel, projeto `lp-pedrohenrique`, deploy a cada push na `main`).
-- **Formulário leadlovers:** `mid=681453`, `fid=77848` ("Captura - Pedro Henrique Fonseca"), destino `/obrigado`. Ids dos campos: 89892 e-mail, 89894 nome, 89893 telefone, 89891 texto.
+- **Link oficial:** https://lp.polopalestrantes.com.br/pedrohenriquebio/ (hospedagem LiteSpeed/cPanel da Polo, pasta `pedrohenriquebio` dentro de `lp.polopalestrantes.com.br`, como as outras LPs). Publicação **manual**: gerar o zip (index.html, obrigado.html, css/, img/), enviar e extrair pelo Gerenciador de arquivos do cPanel.
+- **Espelho (Vercel):** https://lp-pedrohenrique.vercel.app (projeto `lp-pedrohenrique`, deploy a cada push na `main`). Não é o link divulgado; a cada ajuste é preciso atualizar também o LiteSpeed.
+- **Formulário leadlovers:** `mid=681453`, `fid=77848` ("Captura - Pedro Henrique Fonseca"), destino `https://lp.polopalestrantes.com.br/pedrohenriquebio/obrigado.html` (com `.html`: o `cleanUrls` só existe na Vercel). Ids dos campos: 89892 e-mail, 89894 nome, 89893 telefone, 89891 texto.
 - **Sequência:** `_Interessados Pedro Henrique`, nível `Recebemos o seu interesse - Pedro Henrique Fonseca`, e-mail #1 ativo, conta `mariana@polopalestrantes.com`. Banner e rodapé do e-mail em `img/email/`.
 - **WhatsApp** (`/obrigado` e botão do e-mail): `wa.me/5512982506250` (12 98250-6250, geral da Polo). Se quiser medir por LP, trocar por um `wa.link`.
 - **Fotos:** em alta (1024x1280), da pasta do Drive da equipe. Originais em `assets/fotos-drive/` (fora do git e do deploy).
